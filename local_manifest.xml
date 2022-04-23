@@ -15,7 +15,7 @@
 	<project name="android_vendor_xiaomi_phoenix" path="vendor/xiaomi/phoenix" remote="spark-devices" revision="spark"/>>
 
    <!-- Kernel Configuration -->
-	<project name="platform_kernel_xiaomi_joyeuse" path="kernel/xiaomi/sm6250" remote="spark-devices" revision="spark"/>
+	<project name="platform_kernel_xiaomi_phoenix" path="kernel/xiaomi/sm6150" remote="spark-devices" revision="spark"/>
   
    <!-- Clang -->
 	<project name="proton-clang" path="prebuilts/clang/host/linux-x86/clang-proton" remote="kdrag0n" revision="master"/>
